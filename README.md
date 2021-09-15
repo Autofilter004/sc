@@ -126,3 +126,7 @@ Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFil
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
+
+<a href="https://heroku.com/deploy?template=https://github.com/mhdthanzeer07/Autofilter-look">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
